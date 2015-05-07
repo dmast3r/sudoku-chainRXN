@@ -1,5 +1,7 @@
 This repository contains two games sudoku and chain-reaction
 games are developed on bortland turboC and DOS-Box
+
+
 	* sudoku:
 			suduko is 9*9 grid game in which we have to enter the number in row 
 			and column and 3*3 sub-grid from 1-9 in non-repeating manner
