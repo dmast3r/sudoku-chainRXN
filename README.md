@@ -21,3 +21,6 @@ games are developed on bortland turboC and DOS-Box
 		-->heighest no of balls can be entered in box is 3
 		-->side rows and columns can take only two balls
 		-->Four corner of grid can take only one ball 
+
+This game is developed on turboC and uses DOS-box which have very low-end graphics and sometimes it freezes or lazy in processing b/c of this,Fill free to improve it
+Have a nice day!!
