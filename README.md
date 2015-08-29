@@ -24,6 +24,8 @@ games are developed on bortland turboC and DOS-Box
 		-->side rows and columns can take only two balls
 		-->Four corner of grid can take only one ball 
 
-This game is developed on turboC and uses DOS-box which have very low-end graphics and sometimes it freezes or lazy in processing b/c of this,Fill free to improve it
+This game is developed on turboC and uses DOS-box which have very low-end graphics and sometimes it freezes or lazy in processing.
 You have to press mouse-keys several times to work it
+
+Fill free to improve it
 Have a nice day!!
